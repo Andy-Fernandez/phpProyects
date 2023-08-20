@@ -1,0 +1,17 @@
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Directorios generados
+node_modules/
+vendor/
+
+# Archivos de configuración
+.env
+
+# Carpeta de carga de archivos (ejemplo: uploads/)
+# Asegúrate de adaptarla a tu estructura de proyecto
+uploads/
+
+# Carpeta específica que deseas omitir
+cgi-bin/
